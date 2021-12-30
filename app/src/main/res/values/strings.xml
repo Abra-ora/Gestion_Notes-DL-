@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GestionNotes</string>
+
+   <string-array name="modules">
+       <item>Math</item>
+       <item>Physique</item>
+       <item>Chimie</item>
+       <item>Phylosophie</item>
+       <item>Management</item>
+       <item>Anglais</item>
+   </string-array>
+
+</resources>
